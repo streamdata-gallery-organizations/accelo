@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/320-accelo
 x-kinRank: "8"
 x-alexaRank: "105620"
 tags: Accelo
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/accelo/master/_listings/accelo/apis.md
 specificationVersion: "0.14"
 apis: []
